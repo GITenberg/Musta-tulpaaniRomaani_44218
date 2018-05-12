@@ -1,0 +1,41 @@
+_repo: Musta-tulpaaniRomaani_44218
+_version: 0.1.0
+alternative_title: La tulipe noire. Finnish
+contributor:
+  translator:
+    agent_name: Walldén, Hilja
+    alias: Wallden, Hilja
+    birthdate: 1871
+    gutenberg_agent_id: '42640'
+    url: http://www.gutenberg.org/2009/agents/42640
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexandre, pere
+    - Dumas, Alexander
+    - Dumas père, Alexandre
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_issued: '2013-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44218'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tulip Mania, 1634-1637 -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Netherlands -- History -- 1648-1714 -- Fiction'
+- !lcsh 'Witt, Johan de, 1625-1672 -- Fiction'
+title: 'Musta tulpaani: Romaani'
+url: http://www.gutenberg.org/ebooks/44218
